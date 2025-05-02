@@ -1,15 +1,11 @@
 #LeGualberto
 
-Olá! Eu sou a Letícia e sou estudande de ADS.
+Olá! Eu sou a Letícia, sou formada em ADS, atualmente trabalho como Analista de Suporte Jr e estou estudando para aprimorar meus conhecimentos em Análise de Dados.
 ##Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiagualberto/)
 
 ##Habilidades
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
